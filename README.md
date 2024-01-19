@@ -30,7 +30,7 @@ Cloud resume challenge on AWS -> https://cloudresumechallenge.dev
 
 ## 📖 Currently Reading..
 Modern DevOps Practices -> https://www.packtpub.com/product/modern-devops-practices-second-edition/9781805121824
-          
-          
-          
+
+![AsherDowns's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsherDowns&theme=tokyonight&hide_border=true)
+![AsherDowns's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherDowns&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)    
           
