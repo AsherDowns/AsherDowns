@@ -29,7 +29,7 @@ Here are some of the tools and languages I have experience with and use in proje
 Cloud resume challenge on AWS -> https://cloudresumechallenge.dev   
 
 ## 📖 Currently Reading..
-Modern DevOps Practices -> https://www.packtpub.com/product/modern-devops-practices-second-edition/
+Modern DevOps Practices -> https://www.packtpub.com/product/modern-devops-practices-second-edition/9781805121824
           
           
           
