@@ -36,4 +36,4 @@ https://www.linkedin.com/in/asher-d-downs  ||  https://gitlab.com/AsherDowns
 
 ![AsherDowns's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherDowns&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)    
 
-![Visits Badge](https://badges.pufler.dev/visits/AsherDowns/AsherDowns)
+![Visits Badge](https://badges.pufler.dev/visits/AsherDowns/)
